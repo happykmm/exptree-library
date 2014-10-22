@@ -1,5 +1,7 @@
 #ifndef _extstring_h
 
+#define _extstring_h
+
 char*     trim(char *str);
 char*   substr(const char *str, int len);
 char* strClone(const char *str);

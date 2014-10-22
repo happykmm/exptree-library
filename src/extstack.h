@@ -1,5 +1,8 @@
 #ifndef _extstack_h
 
+
+#define _extstack_h
+
 #include "stack.h"
 
 double dPop(Stack S);

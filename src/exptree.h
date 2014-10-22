@@ -1,5 +1,7 @@
 #ifndef _exptree_h
 
+#define _exptree_h
+
 #include "extstring.h"
 #include "extstack.h"
 #include "tree.h"

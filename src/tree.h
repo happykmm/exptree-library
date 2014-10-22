@@ -1,5 +1,7 @@
 #ifndef _tree_h
 
+#define _tree_h
+
 typedef struct TreeNode *PtrToNode;
 typedef PtrToNode Tree;
 

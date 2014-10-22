@@ -1,4 +1,7 @@
 #ifndef _stack_h
+#define _stack_h
+
+
 
 #define ElementType void*
 
