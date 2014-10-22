@@ -2,8 +2,9 @@ exptree-library
 ===============
 Author: lxdyran
 Date  : 2014-10
+
+An expression tree library which supports the following operations
 ===============
-An expression tree library which supports the following operations： 
 (1)Infix expression -> Prefix expreession
 (2)Infix expression -> Postfix expression
 (3)Infix expression -> Expression Tree
@@ -19,4 +20,3 @@ An expression tree library which supports the following operations：
 (11)Expression Tree -> Postfix expression
 (12)Calculate an expression tree
 
-===============
